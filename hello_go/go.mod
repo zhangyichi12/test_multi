@@ -1,4 +1,4 @@
-module github.com/hieven/gomod-test
+module github.com/zhangyichi12/test_multi/hello_go
 
 go 1.12
 
