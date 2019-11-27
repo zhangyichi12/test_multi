@@ -1,9 +1,9 @@
-package main
+package hello
 
 import "fmt"
 import "github.com/gofrs/uuid"
 
-func main() {
+func hello() {
 	uuid, _ := uuid.NewV4()
-	fmt.Println("hello world", uuid)
+	fmt.Println("hello", uuid)
 }
