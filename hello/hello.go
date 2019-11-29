@@ -9,5 +9,6 @@ func Hello() {
 }
 
 func Hello2() {
+	uuid, _ := uuid.NewV4()
 	fmt.Println("hello 2", uuid)
 }

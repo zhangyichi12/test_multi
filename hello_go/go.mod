@@ -4,5 +4,5 @@ go 1.12
 
 require (
 	github.com/gofrs/uuid v3.2.0+incompatible
-	github.com/zhangyichi12/test_multi/hello v0.0.0-20191127225214-5c6eb67ef12f
+	github.com/zhangyichi12/test_multi/hello v0.0.0-20191129223449-cf7d786c597f
 )
