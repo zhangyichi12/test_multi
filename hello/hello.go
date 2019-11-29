@@ -7,3 +7,7 @@ func Hello() {
 	uuid, _ := uuid.NewV4()
 	fmt.Println("hello", uuid)
 }
+
+func Hello2() {
+	fmt.Println("hello 2", uuid)
+}

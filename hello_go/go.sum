@@ -1,2 +1,6 @@
 github.com/gofrs/uuid v2.0.0+incompatible h1:OrHiOYX29gp4yKRYuFZP+8p18pD4QjooQwZz2jG7Yu4=
 github.com/gofrs/uuid v2.0.0+incompatible/go.mod h1:b2aQJv3Z4Fp6yNu3cdSllBxTCLRxnplIgP/c0N/04lM=
+github.com/gofrs/uuid v3.2.0+incompatible h1:y12jRkkFxsd7GpqdSZ+/KCs/fJbqpEXSGd4+jfEaewE=
+github.com/gofrs/uuid v3.2.0+incompatible/go.mod h1:b2aQJv3Z4Fp6yNu3cdSllBxTCLRxnplIgP/c0N/04lM=
+github.com/zhangyichi12/test_multi/hello v0.0.0-20191127225214-5c6eb67ef12f h1:K15H9O+XZy4V41pJOYrqL03JA2mop8dOOdO7DD7Kxto=
+github.com/zhangyichi12/test_multi/hello v0.0.0-20191127225214-5c6eb67ef12f/go.mod h1:IlajtNGhu0NGW6PixHg3HAIOSILPusJWm4D30tQ5NwI=
