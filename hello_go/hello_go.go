@@ -13,4 +13,5 @@ func Hello_go() {
 	hello.Hello()
 	hello.Hello2()
 	helper.Helper()
+	helper.Helper2()
 }
